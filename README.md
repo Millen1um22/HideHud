@@ -1,0 +1,2 @@
+# HideHud
+HideHud script
